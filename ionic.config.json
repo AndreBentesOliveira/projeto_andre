@@ -1,0 +1,7 @@
+{
+  "name": "cursoudemy",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
